@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="449a1c07-2b92-41bf-8b60-b96ecfdbc734" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abtractrion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abtractrion/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abtractrion/src/main/java/org/example/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abtractrion/src/main/java/org/example/Diet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abtractrion/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abtractrion/src/main/java/org/example/LyreBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-Review/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigDecimal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarConstructor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarConstructor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarConstructor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarConstructor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarConstructor/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/src/main/java/org/example/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesBankAccount/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/src/main/java/org/example/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deserialization/src/main/resources/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/main/java/org/example/mainTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/src/main/java/org/example/Screens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmaps/src/main/resources/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/org/example/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/org/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/protectedExample/Flamingo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main/java/protectedExample/RaceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopingExcercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPClasses/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPClasses/src/main/java/org/example/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPClasses/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPClasses/src/main/java/org/example/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineStoreee/src/main/java/org/example/Screens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Overloads/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/main/java/org/example/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/main/java/org/example/Jaguar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/main/java/org/example/Mazda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/main/java/org/example/Yugo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePattern/src/main/java/org/example/DailyRoutine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePattern/src/main/java/org/example/OfficeWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePattern/src/main/java/org/example/StudentRoutine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WarmUp04-17-24/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WarmUp04-17-24/src/main/java/org/example/DivisibleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayListAndSplit/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileReader/src/main/resources/yeats-poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getSetExample/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oregonTrail/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oregonTrail/src/main/java/org/example/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oregonTrail/src/main/java/org/example/Occupation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oregonTrail/src/main/java/org/example/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gjkCZnycOnHx9Ruu0JCbZTTUsT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="449a1c07-2b92-41bf-8b60-b96ecfdbc734" name="Changes" comment="" />
+      <created>1716218250828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716218250828</updated>
+    </task>
+    <servers />
+  </component>
+</project>
